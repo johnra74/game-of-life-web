@@ -1,3 +1,6 @@
+@angular/animations
+MIT
+
 @angular/common
 MIT
 
@@ -63,6 +66,21 @@ maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
 
+
+ngx-bootstrap/component-loader
+MIT
+
+ngx-bootstrap/focus-trap
+MIT
+
+ngx-bootstrap/modal
+MIT
+
+ngx-bootstrap/positioning
+MIT
+
+ngx-bootstrap/utils
+MIT
 
 rxjs
 Apache-2.0
